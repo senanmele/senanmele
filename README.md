@@ -21,8 +21,7 @@ Machine Learning: Building predictive models and implementing statistical techni
 - A Streamlit app for visualizing market KPIs, designed to facilitate quick decision-making for business teams.
 Exploring the intersections of AI, data governance, and real-world applications through various projects.
 
-💬 Let's Connect
-I'm always open to collaboration, learning, and sharing knowledge. Feel free to explore my repositories, contribute to my projects, or just say hi!
+💬 Let's Connect: I'm always open to collaboration, learning, and sharing knowledge. Feel free to explore my repositories, contribute to my projects, or just say hi!
 
 📫 How to reach me: senanmele@gmail.com
   
